@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Afnan-Michen
+- 👋 Hi, I’m Afnan-Michen
 - 👀 I’m interested in ... Software Development
 - 🌱 I’m currently learning ... Computer Science Engineering
 - 💞️ I’m looking to collaborate on ... Anyone
